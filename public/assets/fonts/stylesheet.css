@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Janna LT';
+    src: url('/assets/fonts/Janna-LT-Regular.eot');
+    src: local('Janna LT Regular'), local('Janna-LT-Regular'),
+        url('/assets/fonts/Janna-LT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/Janna-LT-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Janna LT';
+    src: url('/assets/fonts/Janna-LT-Bold.eot');
+    src: local('Janna LT Bold'), local('Janna-LT-Bold'),
+        url('/assets/fonts/Janna-LT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/Janna-LT-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Janna LT';
+    src: url('/assets/fonts/Janna-LT-Light.eot');
+    src: local('Janna LT Light'), local('Janna-LT-Light'),
+        url('/assets/fonts/Janna-LT-Light.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/Janna-LT-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* ... and so on for other weights ... */
